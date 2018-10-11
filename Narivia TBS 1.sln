@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Narivia TBS 1", "Narivia TBS 1\Narivia TBS 1\Narivia TBS 1.vbproj", "{C8BEB29A-0D11-4C62-BE53-D31ADC45DEA8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Narivia TBS 1Content", "Narivia TBS 1\Narivia TBS 1Content\Narivia TBS 1Content.contentproj", "{7A4F29E6-5176-4580-B05F-F33A4B20E908}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C8BEB29A-0D11-4C62-BE53-D31ADC45DEA8}.Debug|x86.ActiveCfg = Debug|x86
+		{C8BEB29A-0D11-4C62-BE53-D31ADC45DEA8}.Debug|x86.Build.0 = Debug|x86
+		{C8BEB29A-0D11-4C62-BE53-D31ADC45DEA8}.Release|x86.ActiveCfg = Release|x86
+		{C8BEB29A-0D11-4C62-BE53-D31ADC45DEA8}.Release|x86.Build.0 = Release|x86
+		{7A4F29E6-5176-4580-B05F-F33A4B20E908}.Debug|x86.ActiveCfg = Debug|x86
+		{7A4F29E6-5176-4580-B05F-F33A4B20E908}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
