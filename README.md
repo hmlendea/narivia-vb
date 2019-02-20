@@ -1,3 +1,5 @@
+[![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
+
 # Narivia
 
 This is the first version I made of Narivia, as a for-fun and for-learning project, without any long-term, bigger plans.
